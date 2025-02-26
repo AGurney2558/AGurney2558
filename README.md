@@ -2,9 +2,9 @@
 <h2>
 Brief Bio
 </h2>
-<p> I am a 17 year old from the Orono area of Maine, who has been falling into computer science all of my life. At some point I relized that it might just be my calling. I have been asked to be on pannels, present, teach a beginners python class, and more. Soon I will be 18, as of the summer of 2025. </p>
+<p> I am a 17 year old from the Orono area of Maine, who has been falling into computer science all of my life. At some point I realized that it might just be my calling.Since then I have been trying to make a name for myself, even though I am young and limmited. I have been asked to be on pannels, present at conferences, teach a beginners python class, and more. Soon I will be 18, as of the summer of 2025 and I have had a wonderful amount of opportunities. </p>
 
-<p>People will ask me where I teach when I go to conferences, my answer is: in a way I don't, I am a high school student who TA's for different CS classes. I also take college CS classes half day. </p>
+<p>People will ask me where I teach when I go to conferences, my answer is: in a way I don't, I am a high school student who TA's for different CS classes. I stepped up fro my school and taught a quarter of a coding class when the principle asked, becuase I knew the content and they needed help. </p>
 
 <h2>
 First “tech” I owned?
